@@ -81,8 +81,9 @@ button:hover, button:active {
 footer {
     width: 100%;
     position: fixed;
+    margin-top: 300px;
     bottom:0;
-    font-size: 40px;
+    font-size: 30px;
     color: var(--yellow);
     text-shadow: 3px 3px 3px #fbff07;
     display:flex;
