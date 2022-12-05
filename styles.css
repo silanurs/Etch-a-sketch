@@ -17,7 +17,7 @@ header {
     text-align: center;
     background-color: var(--lblue);
     color: var(--yellow);
-    font-size: 40px;
+    font-size: 30px;
     text-shadow: 3px 3px 3px #fbff07;
    
 }
@@ -52,7 +52,7 @@ form {
     display: grid;
     grid-template-rows: 3%;
     grid-template-columns: 100%;
-    row-gap: 15px;
+    row-gap: 10px;
 }
 
 button {
